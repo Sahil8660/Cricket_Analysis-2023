@@ -1,0 +1,44 @@
+We dont know the strength and weaknesses of the team and
+we have to take out the best 11 players of the world
+
+1. The Team should able to score atleast 180 runs on an average.
+2. They should defend 150 runs on an average.
+
+
+Openers
+Parameters | Description | Criteria
+Batting Average | Average  runs scored in an innings | >30
+Strike Rate | No of runs scored per 100 balls  | >140
+Innings Batted | i Total Innings batted | >3
+Boundary % | % of runs scored in boundaries | >50
+Batting Position | Order in which the batter played  | < 4
+
+
+Anchors & Middle Order
+Parameters | Description | Criteria
+Batting Average | Average runs scored in an innings | > 40
+strike Rate | No of runs scored per 100 balls | >125
+Innings Batted | Total Innings batted | >3
+Average balls faced | Average balls faced by the batter in an innings | >20
+Batting Position | Order in which the batter played | >2
+
+
+Finisher/Lower Anchor
+Parameters | Description | Criteria
+Batting Average | Average runs scored in an innings | >25
+Strike Rate | No of runs scored per 100 balls | >130
+Innings Batted | Total Innings batted | >3
+Avg. Balls Faced | Average balls faced by the batter in an innings | >12
+Batting Position | Ordorin which the batter played | >4
+Innings Bowled | Total Innings Bowled by the bowler | >1
+
+
+All -Rounders / Lower Order
+Parameters | Description | Criteria
+Batting Average | Average runs scored in an innings | >15
+Strike Rate | No of runs scored per 100 balls | >140
+Innings Batted | Total Innings batted | >2
+Batting Position Order in which the batter played >4
+Innings Bowled | Total Innings bowled | >2
+Bowling Economy | Average runs allowed per over | <7
+Bowling Strike Rate | Average no. of balls required to take a wicket | <20
